@@ -1,0 +1,7 @@
+{
+  "name": "AI Donald Trump Chat",
+  "description": "Engage in a conversation with an AI persona of Donald Trump. You can chat via text or use your microphone for a real-time voice conversation in English or Japanese. The AI uses Google Search for up-to-date information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
